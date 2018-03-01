@@ -1,7 +1,10 @@
 #pragma once
 #include "rectangle.h"
 #include "gwindow.h"
-
+/*
+-----------Never used---------
+enemies not added yet
+*/
 void generateEnemies(int rows,int cols)
 {
   int i,j,x=100,y=windowup-50;
